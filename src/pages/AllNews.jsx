@@ -10,7 +10,7 @@ const AllNews = () => {
   const navigate = useNavigate();
 
   const pageSize = 25;
-  const apiKey = "bfeff020a1574eb09f7952e0f4705fed";
+  const apiKey = "YOUR_API_KEY";
   const maxResults = 100; // News API max results limit
   const maxPages = Math.ceil(maxResults / pageSize); // 100 / 25 = 4
 
