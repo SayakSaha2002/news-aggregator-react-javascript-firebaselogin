@@ -56,7 +56,7 @@ news-aggregator/
 [Demo Video link](https://youtu.be/Q5WYZq4GJsY)
 
 ## Snapshot
-![Image](https://github.com/user-attachments/assets/f53fe3c4-af05-4943-9e69-2680dfffc486)
+[![Image](https://github.com/user-attachments/assets/f53fe3c4-af05-4943-9e69-2680dfffc486)](https://github.com/SayakSaha2002/news-aggregator-react-javascript-firebaselogin/issues/1#issue-3014406223)
 
 ## Previous Releated Repository link
 [Repo link:](https://github.com/SayakSaha2002/news-aggregator-react-javascript)
