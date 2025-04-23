@@ -24,8 +24,8 @@ A modern and responsive News Aggregator web app built with **React**. It fetches
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SayakSaha2002/news-aggregator-react-javascript.git
-   cd news-aggregator-react-javascript
+   https://github.com/SayakSaha2002/news-aggregator-react-javascript-firebaselogin.git
+   cd news-aggregator-react-javascript-firebaselogin
    ```
 
 2. **Install dependencies**
@@ -56,7 +56,12 @@ news-aggregator/
 [Demo Video link](https://youtu.be/Q5WYZq4GJsY)
 
 ## Snapshot
-[![Image](https://github.com/user-attachments/assets/f53fe3c4-af05-4943-9e69-2680dfffc486)](https://github.com/SayakSaha2002/news-aggregator-react-javascript-firebaselogin/issues/1#issue-3014406223)
+![Image](https://github.com/user-attachments/assets/d98c5d22-0cf8-4d40-9d06-c75a1cb59bf0)
+
+![Image](https://github.com/user-attachments/assets/9f138fd5-6e9a-4f35-8b49-04bb3dd4f5ce)
+![Image](https://github.com/user-attachments/assets/2a3b0f5d-4e1e-4b05-b63b-b6e4f594a323)
+![Image](https://github.com/user-attachments/assets/0fd67324-3515-4bfb-b06f-45eec659295e)
+![Image](https://github.com/user-attachments/assets/a40cc4f6-2651-4dd1-b074-0c73e37035e6)
 
 ## Previous Releated Repository link
 [Repo link:](https://github.com/SayakSaha2002/news-aggregator-react-javascript)
